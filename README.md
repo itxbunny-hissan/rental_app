@@ -22,13 +22,13 @@ Asset-based image management
 # Ui Screens
 
 ## Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](screenshots/home_screen.png)
 
 ## Property Details Page
-![Details Page](screenshots/details.png)
+![Details Page](screenshots/Details_screen.png)
 
 ## Carousel Slider
-![Carousel](screenshots/carousel.png)
+![Carousel](screenshots/cetagory_screen.png)
 
 # Tech Stack
 
