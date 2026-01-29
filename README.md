@@ -19,16 +19,16 @@ Clean and responsive UI
 
 Asset-based image management
 
-# Ui Screens
+# UI Screens
 
-## Home Page
-![Home Page](screenshots/home_screen.png)
+## Home Screen
+![Home Screen](screenshots/home_screen.png)
 
-## Property Details Page
-![Details Page](screenshots/Details_screen.png)
+## Category Screen
+![Category Screen](screenshots/cetagory_screen.png)
 
-## Carousel Slider
-![Carousel](screenshots/cetagory_screen.png)
+## Details Screen
+![Details Screen](screenshots/Details_screen.png)
 
 # Tech Stack
 
