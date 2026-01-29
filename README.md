@@ -1,9 +1,9 @@
-#🏠 Rental Property App (Flutter)
+# Rental Property App (Flutter)
 
 A modern rental property mobile application built with Flutter.
 The app allows users to explore rental properties, browse categories, view detailed property information, and enjoy a smooth, clean UI experience.
 
-#✨ Features
+# Features
 
 Home screen with user profile and greeting
 
@@ -19,7 +19,7 @@ Clean and responsive UI
 
 Asset-based image management
 
-#🛠️ Tech Stack
+# Tech Stack
 
 Flutter
 
@@ -31,7 +31,7 @@ carousel_slider
 
 salomon_bottom_bar
 
-#📱 Screens Included
+# Screens Included
 
 Home Page
 
@@ -45,12 +45,12 @@ Search (UI ready)
 
 Settings (UI ready)
 
-#🚀 Purpose
+# Purpose
 
 This project is built for learning Flutter UI, asset handling, navigation, and clean app structure.
 Perfect for beginners and intermediate Flutter developers.
 
-#📌 Status
+# Status
 
 UI complete
 
