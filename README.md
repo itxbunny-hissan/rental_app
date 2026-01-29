@@ -21,6 +21,15 @@ Asset-based image management
 
 # Ui Screens
 
+## Home Page
+![Home Page](screenshots/homepage.png)
+
+## Property Details Page
+![Details Page](screenshots/details.png)
+
+## Carousel Slider
+![Carousel](screenshots/carousel.png)
+
 # Tech Stack
 
 Flutter
