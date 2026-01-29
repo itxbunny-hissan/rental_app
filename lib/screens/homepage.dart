@@ -28,7 +28,7 @@ class _HomepageState extends State<Homepage> {
               
               child: Padding(
                 
-                padding: const EdgeInsets.symmetric(horizontal: 16.0),
+                padding: const EdgeInsets.symmetric(horizontal: 16.0,vertical: 0),
                 child: SizedBox(
                   
                   child: Column(
