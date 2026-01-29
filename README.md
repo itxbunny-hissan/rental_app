@@ -66,4 +66,4 @@ Perfect for beginners and intermediate Flutter developers.
 UI complete
 
 Backend integration: Coming soon
->>>>>>> a2d67bc5c06bb4ee5fe3861e58fd75e9fd4426b7
+
